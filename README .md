@@ -32,3 +32,4 @@ This project implements real-time object detection and vehicle tracking using th
    ```bash
    python speed.py
 
+keep in mind every python script should be in the same folder/Directory
